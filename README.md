@@ -5,7 +5,7 @@ Skyview is an AI-powered photo-sharing platform where users can upload and view 
 ## Live Demo 🌐
 
 Check out the live version of the Skyview application [here](https://skyviewfinal-40868696838.us-east1.run.app)!
-
+Sign up using your email and password.
 
 ## Features ✨
 
@@ -35,7 +35,7 @@ To run the Skyview project locally or in Google Cloud Shell, follow these steps:
     ```bash
     pip install -r requirements.txt
 3. Set up Firebase:
-- Go to the Firebase Console [here] (https://firebase.google.com/).
+- Go to the [Firebase Console](https://firebase.google.com/).
 - Set up authentication and get your Firebase config.
 - Add your Firebase credentials to the project.
 
